@@ -1,0 +1,2 @@
+pygobject==3.8.0
+# sudo apt-get install tracker* libtracker*
